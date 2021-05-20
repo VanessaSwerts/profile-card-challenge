@@ -13,7 +13,7 @@
  <a href="#-about">About</a> •
  <a href="#-layout">Layout</a> •
  <a href="#-challenge">Challenge</a> •
- <a href="#-autora">Autor</a>
+ <a href="#-author">Author</a>
 </p>
 
 ## 💻 About
@@ -56,7 +56,7 @@ This challenge is completely free. Please share it with anyone who will find it 
 
 ---
 
-## 🦸 Autora
+## 🦸 Author
 
 <table>
   <tr>   
